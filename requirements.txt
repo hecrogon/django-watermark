@@ -1,2 +1,2 @@
-django
-Pillow
+Django>=1.5
+Pillow>=1.7.8
